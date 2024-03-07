@@ -1,2 +1,1 @@
-# .github
-Public readme repository
+# Peppi and Kokki's playground
